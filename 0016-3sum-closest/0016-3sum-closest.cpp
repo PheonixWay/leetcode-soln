@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         sort(nums.begin(),nums.end());
 
-        int max_closest=nums[0]+nums[1]+nums[2];
+        int closest=nums[0]+nums[1]+nums[2];
 
         for(int i=0;i<n-2;i++){
 
@@ -13,10 +13,10 @@ public:
 
             while(left<right){
                 int sum=nums[i]+nums[left]+nums[right];
-                int diffClosest=abs(target-max_closest);
+                int diffClosest=abs(target-closest);
                 int diffNewClosest=abs(target-sum);
                 if(diffNewClosest<diffClosest){
-                    max_closest=sum;
+                    closest=sum;
                 }
 
                 if(sum>target){
@@ -30,7 +30,7 @@ public:
             }
         }
 
-        return max_closest;
+        return closest;
 
     }
 };
