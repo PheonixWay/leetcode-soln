@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PheonixWay/leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/PheonixWay/leetcode-soln/tree/master/0647-palindromic-substrings) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PheonixWay/leetcode-soln/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Manacher
 |  |
 | ------- |
@@ -35,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PheonixWay/leetcode-soln/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PheonixWay/leetcode-soln/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PheonixWay/leetcode-soln/tree/master/0018-4sum) |
+## Tree
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PheonixWay/leetcode-soln/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PheonixWay/leetcode-soln/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PheonixWay/leetcode-soln/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PheonixWay/leetcode-soln/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
