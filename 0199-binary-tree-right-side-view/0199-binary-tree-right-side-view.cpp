@@ -11,19 +11,28 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root,int depth,vector<int>& result){
-        if(root==NULL) return;
-
-        if(depth==result.size()){
-            result.push_back(root->val);
-        }
-
-        dfs(root->right,depth+1,result);
-        dfs(root->left,depth+1,result);
-    }
     vector<int> rightSideView(TreeNode* root) {
         vector<int> result;
-        dfs(root, 0, result);
+        if(root==NULL) return result;
+
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while(!q.empty()){
+            int levelSize=q.size();
+            for(int i=0;i<levelSize;i++){
+                TreeNode* currentNode=q.front();
+                q.pop();
+
+                if(i==levelSize-1){
+                    result.push_back(currentNode->val);
+                }
+
+                if(currentNode->left != NULL) q.push(currentNode->left);
+                if(currentNode->right != NULL) q.push(currentNode->right);
+            }
+        }
+
         return result;
     }
 };
