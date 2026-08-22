@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/PheonixWay/leetcode-soln/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PheonixWay/leetcode-soln/tree/master/0018-4sum) |
 | [0399-evaluate-division](https://github.com/PheonixWay/leetcode-soln/tree/master/0399-evaluate-division) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PheonixWay/leetcode-soln/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/PheonixWay/leetcode-soln/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PheonixWay/leetcode-soln/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/PheonixWay/leetcode-soln/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PheonixWay/leetcode-soln/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/PheonixWay/leetcode-soln/tree/master/0399-evaluate-division) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PheonixWay/leetcode-soln/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
