@@ -2,7 +2,7 @@ class SmallestInfiniteSet {
 public:
     int current_min; 
     priority_queue<int, vector<int>, greater<int>> minHeap;
-    unordered_set<int> present_in_heap; 
+    unordered_set<int> present_in_set; 
 
     SmallestInfiniteSet() {
         current_min = 1;
@@ -13,7 +13,7 @@ public:
         if (!minHeap.empty()) {
             int smallest = minHeap.top();
             minHeap.pop();
-            present_in_heap.erase(smallest);
+            present_in_set.erase(smallest);
             return smallest;
         }
 
@@ -24,9 +24,9 @@ public:
     }
     
     void addBack(int num) {
-        if (num < current_min && present_in_heap.find(num) == present_in_heap.end()) {
+        if (num < current_min && present_in_set.find(num) == present_in_set.end()) {
             minHeap.push(num);
-            present_in_heap.insert(num);
+            present_in_set.insert(num);
         }
     }
 };
