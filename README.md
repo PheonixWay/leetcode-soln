@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/PheonixWay/leetcode-soln/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PheonixWay/leetcode-soln/tree/master/0018-4sum) |
 | [0647-palindromic-substrings](https://github.com/PheonixWay/leetcode-soln/tree/master/0647-palindromic-substrings) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/PheonixWay/leetcode-soln/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/PheonixWay/leetcode-soln/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/PheonixWay/leetcode-soln/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PheonixWay/leetcode-soln/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/PheonixWay/leetcode-soln/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/PheonixWay/leetcode-soln/tree/master/2542-maximum-subsequence-score) |
 ## Sorting
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PheonixWay/leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/PheonixWay/leetcode-soln/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/PheonixWay/leetcode-soln/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/PheonixWay/leetcode-soln/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2542-maximum-subsequence-score](https://github.com/PheonixWay/leetcode-soln/tree/master/2542-maximum-subsequence-score) |
+## Simulation
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/PheonixWay/leetcode-soln/tree/master/2462-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
