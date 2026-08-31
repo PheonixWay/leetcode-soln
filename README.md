@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/PheonixWay/leetcode-soln/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PheonixWay/leetcode-soln/tree/master/0018-4sum) |
 | [0647-palindromic-substrings](https://github.com/PheonixWay/leetcode-soln/tree/master/0647-palindromic-substrings) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/PheonixWay/leetcode-soln/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/PheonixWay/leetcode-soln/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/PheonixWay/leetcode-soln/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/PheonixWay/leetcode-soln/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PheonixWay/leetcode-soln/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/PheonixWay/leetcode-soln/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/PheonixWay/leetcode-soln/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/PheonixWay/leetcode-soln/tree/master/2542-maximum-subsequence-score) |
 ## Sorting
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/PheonixWay/leetcode-soln/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PheonixWay/leetcode-soln/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PheonixWay/leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/PheonixWay/leetcode-soln/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/PheonixWay/leetcode-soln/tree/master/2542-maximum-subsequence-score) |
 ## Tree
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/PheonixWay/leetcode-soln/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/PheonixWay/leetcode-soln/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PheonixWay/leetcode-soln/tree/master/0700-search-in-a-binary-search-tree) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/PheonixWay/leetcode-soln/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Graph Theory
 |  |
 | ------- |
