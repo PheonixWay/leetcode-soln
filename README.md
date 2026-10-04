@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/PheonixWay/leetcode-soln/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/PheonixWay/leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PheonixWay/leetcode-soln/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/PheonixWay/leetcode-soln/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PheonixWay/leetcode-soln/tree/master/0700-search-in-a-binary-search-tree) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/PheonixWay/leetcode-soln/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/PheonixWay/leetcode-soln/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PheonixWay/leetcode-soln/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/PheonixWay/leetcode-soln/tree/master/0367-valid-perfect-square) |
 ## Brainteaser
 |  |
 | ------- |
