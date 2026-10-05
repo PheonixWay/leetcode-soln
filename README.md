@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PheonixWay/leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0399-evaluate-division](https://github.com/PheonixWay/leetcode-soln/tree/master/0399-evaluate-division) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PheonixWay/leetcode-soln/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0647-palindromic-substrings](https://github.com/PheonixWay/leetcode-soln/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/PheonixWay/leetcode-soln/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PheonixWay/leetcode-soln/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PheonixWay/leetcode-soln/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PheonixWay/leetcode-soln/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Brainteaser
 |  |
 | ------- |
@@ -219,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PheonixWay/leetcode-soln/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/PheonixWay/leetcode-soln/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PheonixWay/leetcode-soln/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
