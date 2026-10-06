@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PheonixWay/leetcode-soln/tree/master/0005-longest-palindromic-substring) |
 | [0399-evaluate-division](https://github.com/PheonixWay/leetcode-soln/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PheonixWay/leetcode-soln/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/PheonixWay/leetcode-soln/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/PheonixWay/leetcode-soln/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/PheonixWay/leetcode-soln/tree/master/0412-fizz-buzz) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/PheonixWay/leetcode-soln/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Interactive
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PheonixWay/leetcode-soln/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PheonixWay/leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PheonixWay/leetcode-soln/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/PheonixWay/leetcode-soln/tree/master/0412-fizz-buzz) |
 ## Brainteaser
 |  |
 | ------- |
