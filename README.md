@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PheonixWay/leetcode-soln/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/PheonixWay/leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PheonixWay/leetcode-soln/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/PheonixWay/leetcode-soln/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/PheonixWay/leetcode-soln/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PheonixWay/leetcode-soln/tree/master/0700-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/PheonixWay/leetcode-soln/tree/master/0875-koko-eating-bananas) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PheonixWay/leetcode-soln/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PheonixWay/leetcode-soln/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PheonixWay/leetcode-soln/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/PheonixWay/leetcode-soln/tree/master/0441-arranging-coins) |
 ## Brainteaser
 |  |
 | ------- |
