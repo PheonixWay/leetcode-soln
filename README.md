@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PheonixWay/leetcode-soln/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PheonixWay/leetcode-soln/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PheonixWay/leetcode-soln/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/PheonixWay/leetcode-soln/tree/master/0504-base-7) |
 | [0647-palindromic-substrings](https://github.com/PheonixWay/leetcode-soln/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/PheonixWay/leetcode-soln/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PheonixWay/leetcode-soln/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/PheonixWay/leetcode-soln/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/PheonixWay/leetcode-soln/tree/master/0504-base-7) |
 ## Brainteaser
 |  |
 | ------- |
