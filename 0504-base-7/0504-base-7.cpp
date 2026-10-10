@@ -22,7 +22,7 @@ public:
             result += "-";
         }
         
-        // Step 4: Reverse the string directly in memory (do not use result =)
+        // Step 4: Reverse the string directly in memory
         reverse(result.begin(), result.end());
         
         return result;
