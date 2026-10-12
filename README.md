@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PheonixWay/leetcode-soln/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PheonixWay/leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/PheonixWay/leetcode-soln/tree/master/0399-evaluate-division) |
+| [0598-range-addition-ii](https://github.com/PheonixWay/leetcode-soln/tree/master/0598-range-addition-ii) |
 | [0875-koko-eating-bananas](https://github.com/PheonixWay/leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/PheonixWay/leetcode-soln/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PheonixWay/leetcode-soln/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PheonixWay/leetcode-soln/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/PheonixWay/leetcode-soln/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/PheonixWay/leetcode-soln/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/PheonixWay/leetcode-soln/tree/master/0598-range-addition-ii) |
 ## Brainteaser
 |  |
 | ------- |
