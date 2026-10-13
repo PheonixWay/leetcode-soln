@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PheonixWay/leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/PheonixWay/leetcode-soln/tree/master/0399-evaluate-division) |
 | [0598-range-addition-ii](https://github.com/PheonixWay/leetcode-soln/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PheonixWay/leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/PheonixWay/leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/PheonixWay/leetcode-soln/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PheonixWay/leetcode-soln/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/PheonixWay/leetcode-soln/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PheonixWay/leetcode-soln/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PheonixWay/leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PheonixWay/leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/PheonixWay/leetcode-soln/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/PheonixWay/leetcode-soln/tree/master/2542-maximum-subsequence-score) |
 ## Tree
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/PheonixWay/leetcode-soln/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/PheonixWay/leetcode-soln/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/PheonixWay/leetcode-soln/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PheonixWay/leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 ## Brainteaser
 |  |
 | ------- |
