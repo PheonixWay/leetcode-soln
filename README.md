@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/PheonixWay/leetcode-soln/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PheonixWay/leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/PheonixWay/leetcode-soln/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PheonixWay/leetcode-soln/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Brainteaser
 |  |
 | ------- |
@@ -239,4 +240,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/PheonixWay/leetcode-soln/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/PheonixWay/leetcode-soln/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PheonixWay/leetcode-soln/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PheonixWay/leetcode-soln/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PheonixWay/leetcode-soln/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
