@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/PheonixWay/leetcode-soln/tree/master/0399-evaluate-division) |
 | [0598-range-addition-ii](https://github.com/PheonixWay/leetcode-soln/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PheonixWay/leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/PheonixWay/leetcode-soln/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/PheonixWay/leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/PheonixWay/leetcode-soln/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PheonixWay/leetcode-soln/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PheonixWay/leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/PheonixWay/leetcode-soln/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PheonixWay/leetcode-soln/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0812-largest-triangle-area](https://github.com/PheonixWay/leetcode-soln/tree/master/0812-largest-triangle-area) |
 ## Brainteaser
 |  |
 | ------- |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PheonixWay/leetcode-soln/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/PheonixWay/leetcode-soln/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/PheonixWay/leetcode-soln/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
