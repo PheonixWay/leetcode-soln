@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/PheonixWay/leetcode-soln/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PheonixWay/leetcode-soln/tree/master/0415-add-strings) |
+| [1103-distribute-candies-to-people](https://github.com/PheonixWay/leetcode-soln/tree/master/1103-distribute-candies-to-people) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/PheonixWay/leetcode-soln/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Interactive
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PheonixWay/leetcode-soln/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/PheonixWay/leetcode-soln/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/PheonixWay/leetcode-soln/tree/master/0836-rectangle-overlap) |
+| [1103-distribute-candies-to-people](https://github.com/PheonixWay/leetcode-soln/tree/master/1103-distribute-candies-to-people) |
 ## Brainteaser
 |  |
 | ------- |
