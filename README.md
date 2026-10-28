@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/PheonixWay/leetcode-soln/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PheonixWay/leetcode-soln/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PheonixWay/leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/PheonixWay/leetcode-soln/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PheonixWay/leetcode-soln/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/PheonixWay/leetcode-soln/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PheonixWay/leetcode-soln/tree/master/0405-convert-a-number-to-hexadecimal) |
